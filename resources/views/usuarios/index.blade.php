@@ -22,7 +22,7 @@
             <b>Localidad:</b>&nbsp;&nbsp;
         </div>
     </div>
-    <a href="{{route('usuarios.create')}}" class="btn btn-success mb-2"><i class="fas fa-plus-circle"></i> Nueva Asignatura</a>
+    <a href="{{route('usuarios.create')}}" class="btn btn-success mb-2"><i class="fas fa-plus-circle"></i> Nuevo Usuario</a>
     <table class="table table-dark table-striped">
         <thead>
           <tr>
